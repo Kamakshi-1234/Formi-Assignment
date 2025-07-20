@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Executive Room 1",
+    "amenities": "King bed, Free WiFi, Breakfast included, Air Conditioning, Flat-screen TV, Safe, Mini Bar, Workspace, Iron, Hair Dryer",
+    "pricePerNight": 5500
+  },
+  {
+    "name": "Executive Room 2",
+    "amenities": "Queen bed, Pool View, Breakfast included, Free WiFi, Flat-screen TV, Air Conditioning, Room Service, Safe, Wardrobe, Coffee Machine",
+    "pricePerNight": 5400
+  },
+  {
+    "name": "Deluxe Room 1",
+    "amenities": "Twin beds, Balcony, Mini Fridge, Free WiFi, AC, Shower, Wardrobe, TV, Bathrobe, Complimentary toiletries",
+    "pricePerNight": 4700
+  },
+  {
+    "name": "Deluxe Room 2",
+    "amenities": "Queen bed, Ocean View, Room Service, Shower, Balcony, Mini Fridge, Coffee Maker, Hair Dryer, Reading Light, Telephone",
+    "pricePerNight": 4800
+  },
+  {
+    "name": "Suite 1",
+    "amenities": "2 Bedrooms, Jacuzzi, Butler Service, Living Room, Smart TV, Dining Table, Coffee Maker, Terrace, Ocean View, Massage Chair",
+    "pricePerNight": 9500
+  },
+  {
+    "name": "Suite 2",
+    "amenities": "King bed, City View, Workspace, Personal Assistant, Free Snacks, Massage Service, Butler, Smart Lights, Terrace",
+    "pricePerNight": 9800
+  },
+  {
+    "name": "Premium Suite",
+    "amenities": "2 Rooms, Balcony, Jacuzzi, Mini Bar, Living Space, AC, WiFi, Butler, Dining Table, Entertainment System",
+    "pricePerNight": 10500
+  },
+  {
+    "name": "Junior Suite",
+    "amenities": "King Bed, Free Breakfast, Terrace View, Netflix TV, Safe, Workspace, Tea Kettle, Complimentary Bottled Water",
+    "pricePerNight": 8000
+  },
+  {
+    "name": "Heritage Room",
+    "amenities": "Antique Furniture, Canopy Bed, Balcony, Bathtub, Cultural Decor, Reading Nook, Safe, Room Service, Traditional Lights",
+    "pricePerNight": 7500
+  },
+  {
+    "name": "Garden View Room",
+    "amenities": "King Bed, Garden Balcony, Swing Chair, Writing Table, Soft Lighting, Shower, AC, Eco-Friendly Toiletries",
+    "pricePerNight": 6600
+  },
+  {
+    "name": "Lake View Room",
+    "amenities": "Queen Bed, Balcony, Lake View, Recliner, Minibar, Bath Slippers, Large Wardrobe, Bookshelf, Smart TV",
+    "pricePerNight": 7200
+  },
+  {
+    "name": "Business Room",
+    "amenities": "Work Desk, High-Speed WiFi, Office Chair, AC, TV, Tea/Coffee Maker, Phone, Soundproof Windows",
+    "pricePerNight": 5900
+  },
+  {
+    "name": "Standard Room",
+    "amenities": "Double Bed, Shower, Free Toiletries, TV, AC, Heater, Small Desk, Closet, Reading Light",
+    "pricePerNight": 4400
+  },
+  {
+    "name": "Budget Room",
+    "amenities": "Single Bed, Shared Bathroom, Fan, Minimal Furniture, Small Window, WiFi",
+    "pricePerNight": 3000
+  },
+  {
+    "name": "Honeymoon Suite",
+    "amenities": "Canopy Bed, Flower Decor, Hot Tub, Scenic View, Wine Basket, Private Balcony, Soft Lighting, Aromatherapy Kit",
+    "pricePerNight": 11000
+  },
+  {
+    "name": "Penthouse",
+    "amenities": "Private Elevator, Rooftop Access, Full Kitchen, Bathtub, Home Theater, Butler Service, Personal Chef, Luxury Seating",
+    "pricePerNight": 15000
+  },
+  {
+    "name": "Luxury Apartment",
+    "amenities": "Full Kitchen, Dining Room, 2 Bedrooms, Netflix, Washing Machine, Large Windows, AC, High-Speed WiFi, Iron, Wardrobe",
+    "pricePerNight": 13500
+  },
+  {
+    "name": "City Room",
+    "amenities": "City Skyline View, Queen Bed, Soundproof Windows, Minibar, Work Table, WiFi, Smart Mirror, Power Outlets",
+    "pricePerNight": 6800
+  },
+  {
+    "name": "Loft Room",
+    "amenities": "High Ceiling, Artistic Decor, Floor-to-Ceiling Windows, Sofa, Reading Lamps, Coffee Machine, Mini Bar, Large TV",
+    "pricePerNight": 8700
+  },
+  {
+    "name": "Panoramic Suite",
+    "amenities": "360-Degree View, Butler, Personal Bar, Terrace, Jacuzzi, Entertainment System, Walk-in Closet, Massage Chair",
+    "pricePerNight": 12500
+  }
+]
