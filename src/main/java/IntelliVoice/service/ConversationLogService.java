@@ -12,7 +12,7 @@ public class ConversationLogService {
     public void saveLog(String sessionId, String query, List<String> chunks) {
         conversationMap
                 .computeIfAbsent(sessionId, k -> new ArrayList<>())
-                .add(new ConversationLog(sessionId, query, chunks));  // ✅ FIXED
+                .add(new ConversationLog(sessionId, query, chunks));
     }
 
     public List<ConversationLog> getLogsBySession(String sessionId) {

@@ -20,7 +20,7 @@ public class ChunkService {
         for (Room room : rooms) {
             String roomText = formatRoom(room);
 
-            // If adding this room would exceed max size, start new chunk
+
             if (currentChunk.length() + roomText.length() > MAX_CHARS) {
                 chunks.add(currentChunk.toString());
                 currentChunk = new StringBuilder();
